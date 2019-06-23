@@ -1,2 +1,3 @@
 # cryptg
-Cryptographic utilities for Telegram
+
+Moved to https://github.com/cher-nov/cryptg.
